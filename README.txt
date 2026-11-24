@@ -1,30 +1,26 @@
 SOUL SCENT AGARBATTI WEBSITE
-=============================
+============================
 
-Files:
-- index.html: complete responsive website
-- assets/: add your real product packet photos here
+This folder contains the updated website and your four supplied product photos.
 
-ADD YOUR PRODUCT PHOTOS:
-Rename your real photos exactly as:
-1. sandal.jpg
-2. rose.jpg
-3. white-oudh.jpg
-4. musk.jpg
+FILES
+- index.html
+- assets/gulab.jpg
+- assets/chandan.jpg
+- assets/classic-oudh.jpg
+- assets/rose.jpg
 
-Put all four images inside the assets folder, replacing the instructions/placeholders shown on the site.
-For best results use clear front-facing product packet photos, JPG or PNG. If PNG, either rename to .jpg only if it is truly a JPEG, or update the image extension in index.html.
+UPDATE YOUR EXISTING GITHUB REPOSITORY
+1. Open your repository: soulscentagarbatti / Soul-Scent-Agarbatti
+2. Click Add file > Upload files.
+3. Open this extracted folder on your computer.
+4. Upload index.html and the complete assets folder (with all four JPG images).
+5. If GitHub asks about an existing index.html, upload/commit the new version to replace it.
+6. Click Commit changes.
+7. Wait for GitHub Pages to rebuild, then refresh your website.
 
-FREE PUBLISHING OPTION: GITHUB PAGES
-1. Create/sign in to a GitHub account.
-2. Create a new public repository named soul-scent-website.
-3. Upload index.html and the assets folder (with your photos).
-4. In repository Settings > Pages, choose Deploy from a branch.
-5. Select branch main and folder /(root), then Save.
-6. GitHub will show your free website URL after publishing.
-
-IMPORTANT:
-- This starter site uses WhatsApp ordering, not an automatic shopping cart/payment gateway.
-- WhatsApp contact and business details are based on details supplied earlier; verify them before publishing.
-- The warehouse address should be confirmed before making it public.
-- A custom domain such as soulscentagarbatti.in can be connected later; it is not required for the free GitHub Pages address.
+IMPORTANT
+- Keep the assets folder at the same level as index.html.
+- These images are the four product designs you supplied: Gulab, Chandan, Classic Oudh and Rose.
+- Prices are not shown because no current selling prices were supplied.
+- The site uses WhatsApp enquiry/order links. It does not yet have an automatic cart, online payment or checkout.
